@@ -1,0 +1,16 @@
+.bx-wrapper{
+    text-align: center;
+    align-items: center;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+    background:rgba(49, 66, 197, 0.2);
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.bx-wrapper{
+    box-shadow: none;
+}
